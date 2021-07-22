@@ -14,6 +14,7 @@
 		773033FD26A74CDB00E57454 /* EcoOutfits.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 773033FB26A74CDB00E57454 /* EcoOutfits.xcdatamodeld */; };
 		773033FF26A74CE000E57454 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 773033FE26A74CE000E57454 /* Assets.xcassets */; };
 		7730340226A74CE000E57454 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7730340026A74CE000E57454 /* LaunchScreen.storyboard */; };
+		774C4D7D26A9EBC50016EF01 /* EcoOutfits in Resources */ = {isa = PBXBuildFile; fileRef = 774C4D7C26A9EBC50016EF01 /* EcoOutfits */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		773033FE26A74CE000E57454 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7730340126A74CE000E57454 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7730340326A74CE000E57454 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		774C4D7C26A9EBC50016EF01 /* EcoOutfits */ = {isa = PBXFileReference; lastKnownFileType = text; path = EcoOutfits; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				773033F426A74CDB00E57454 /* SceneDelegate.swift */,
 				773033F626A74CDB00E57454 /* ViewController.swift */,
 				773033F826A74CDB00E57454 /* Main.storyboard */,
+				774C4D7C26A9EBC50016EF01 /* EcoOutfits */,
 				773033FE26A74CE000E57454 /* Assets.xcassets */,
 				7730340026A74CE000E57454 /* LaunchScreen.storyboard */,
 				7730340326A74CE000E57454 /* Info.plist */,
@@ -130,6 +133,7 @@
 				7730340226A74CE000E57454 /* LaunchScreen.storyboard in Resources */,
 				773033FF26A74CE000E57454 /* Assets.xcassets in Resources */,
 				773033FA26A74CDB00E57454 /* Main.storyboard in Resources */,
+				774C4D7D26A9EBC50016EF01 /* EcoOutfits in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
